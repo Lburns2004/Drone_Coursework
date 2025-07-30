@@ -33,3 +33,12 @@ This project implements a **balance control system** for a model drone designed 
 - ✅ **Scan timer logic** with LED indicators
 - ✅ **BlackBox telemetry logging** in CSV format
 
+---
+
+## Results
+
+A full video of the results can be seen in the mp4 file
+<img width="1176" height="818" alt="image" src="https://github.com/user-attachments/assets/a1a9dc98-76f4-4932-9793-1a61d0772e70" />
+<img width="600" height="417" alt="Screenshot 2025-07-30 at 11 21 41" src="https://github.com/user-attachments/assets/022ec6d0-d6c6-4457-82ca-e8a2bce6749b" />
+
+
